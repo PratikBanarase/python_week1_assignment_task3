@@ -187,4 +187,4 @@ The solutions follow basic Python coding standards:
 - Avoidance of unnecessary code
 
 # Author
-Tanvi Bramhankar 
+Pratik Banarase
